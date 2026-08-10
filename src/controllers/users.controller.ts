@@ -1,7 +1,8 @@
 import { Request, Response } from "express";
 import { getUsers } from "../services/users.service";
 
-export function fetchUsers(req: Request, res: Response) {
+export async function fetchUsers(req: Request, res: Response) {
+  await new Promise((resolve) => setTimeout(resolve, 300));
   const page = Number(req.query.page) || 1;
   const limit = Number(req.query.limit) || 10;
 
