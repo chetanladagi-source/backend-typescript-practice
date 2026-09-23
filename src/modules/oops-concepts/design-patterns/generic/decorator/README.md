@@ -10,3 +10,4 @@ because interviewers reach for it.
 | Example | Scenario |
 | --- | --- |
 | `example1` | Coffee base + `Milk`, `Sugar`, `Syrup` decorators, stackable in any order |
+| `example2` | Payment fees (`Gst`, `ConvenienceFee`, `InternationalMarkup`) where order changes the total |

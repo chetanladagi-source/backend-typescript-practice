@@ -11,3 +11,4 @@ every line.
 | Example | Scenario |
 | --- | --- |
 | `example1` | A payment authorization pipeline built from linked handlers |
+| `example2` | Leave approval: Manager → Director → HR |

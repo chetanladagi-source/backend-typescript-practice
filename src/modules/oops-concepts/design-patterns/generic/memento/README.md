@@ -10,3 +10,4 @@ to recompute; you want to *restore*.
 | Example | Scenario |
 | --- | --- |
 | `example1` | Save/restore a coffee-order draft, with a caretaker that never peeks inside the memento |
+| `example2` | Undo on an employee timesheet draft |

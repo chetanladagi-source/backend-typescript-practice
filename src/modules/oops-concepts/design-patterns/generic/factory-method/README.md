@@ -9,3 +9,4 @@ read from a CSV. Callers should not know the class names.
 | Example | Scenario |
 | --- | --- |
 | `example1` | An `EmployeeFactory` returning the right subclass by role |
+| `example2` | A `TicketFactory` issuing hourly / daily / valet parking tickets |

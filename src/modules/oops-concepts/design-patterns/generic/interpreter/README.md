@@ -10,3 +10,4 @@ The classic framing: HR wants a saved-search box on the employee list —
 | Example | Scenario |
 | --- | --- |
 | `example1` | A boolean-expression interpreter filtering Employee records |
+| `example2` | Parking access policies like `kind == "ev" && hours < 3` |

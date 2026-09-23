@@ -10,3 +10,4 @@ be impossible.
 | Example | Scenario |
 | --- | --- |
 | `example1` | Payment lifecycle with one class per state |
+| `example2` | A coffee machine: idle → heating → ready, plus a descale path |

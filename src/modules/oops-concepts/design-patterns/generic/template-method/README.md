@@ -10,3 +10,4 @@ different steps.
 | Example | Scenario |
 | --- | --- |
 | `example1` | An `Onboarding` base class; Engineer and Intern override the varying steps |
+| `example2` | A `BrewRecipe` template; latte overrides the finish hook to steam milk |

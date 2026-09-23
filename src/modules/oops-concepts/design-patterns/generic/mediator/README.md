@@ -10,3 +10,4 @@ others; route it through a mediator and they only know about the mediator.
 | Example | Scenario |
 | --- | --- |
 | `example1` | A `ParkingLotMediator` coordinating gates, spots and the display board |
+| `example2` | A coffee `ShopMediator` between cashier, machine and pickup |

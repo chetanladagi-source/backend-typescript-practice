@@ -10,3 +10,4 @@ knowing which it is.
 | Example | Scenario |
 | --- | --- |
 | `example1` | An `OrgUnit` hierarchy where `Employee` (leaf) and `Team` (composite) share one interface |
+| `example2` | Coffee `Drink` + nested `Combo` priced as one `MenuItem` |

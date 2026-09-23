@@ -10,3 +10,4 @@ an option; wrapping it in an adapter is.
 | Example | Scenario |
 | --- | --- |
 | `example1` | Adapting a legacy payment gateway to the app's `PaymentProcessor` interface |
+| `example2` | Adapting a vendor barrier SDK (`setAngle`) to a clean `Gate` |

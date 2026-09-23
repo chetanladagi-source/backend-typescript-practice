@@ -10,3 +10,4 @@ end up serving iced coffee with a lid.
 | Example | Scenario |
 | --- | --- |
 | `example1` | `HotDrinkFactory` and `ColdDrinkFactory` producing matched drink + cup pairs |
+| `example2` | `IndiaKit` and `UsKit` producing matched identity + payroll + benefits |

@@ -10,3 +10,4 @@ Bridge exists to prevent.
 | Example | Scenario |
 | --- | --- |
 | `example1` | Payment kinds × gateways as **3 + 3**, not **3 × 3** |
+| `example2` | Drink kinds × brewers (machine / kettle / press) as **3 + 3** |

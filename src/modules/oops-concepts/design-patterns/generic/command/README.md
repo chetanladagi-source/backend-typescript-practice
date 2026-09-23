@@ -10,3 +10,4 @@ invoker; the espresso machine is the receiver.
 | Example | Scenario |
 | --- | --- |
 | `example1` | A barista command queue with undo |
+| `example2` | Parking park/leave commands with undo for a mistyped plate |

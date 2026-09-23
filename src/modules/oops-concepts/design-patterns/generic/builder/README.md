@@ -10,3 +10,4 @@ says a builder is due.
 | Example | Scenario |
 | --- | --- |
 | `example1` | A fluent `CoffeeBuilder` with a required base and optional add-ons |
+| `example2` | An `OfferBuilder` for employee offers, rejecting remote + joining bonus |

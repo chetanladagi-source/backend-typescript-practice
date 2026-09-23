@@ -9,3 +9,4 @@ Wallet). The checkout code should not care which one; each strategy encapsulates
 | Example | Scenario |
 | --- | --- |
 | `example1` | A `PaymentStrategy` interchangeable at runtime |
+| `example2` | Parking fee strategies: hourly, daily-cap, early-bird |

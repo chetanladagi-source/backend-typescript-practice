@@ -10,3 +10,4 @@ is what the pattern does.
 | Example | Scenario |
 | --- | --- |
 | `example1` | Iterating over an org chart with `Symbol.iterator` and a generator |
+| `example2` | A garage with `free()` and `evOnly()` traversals over the same spots |

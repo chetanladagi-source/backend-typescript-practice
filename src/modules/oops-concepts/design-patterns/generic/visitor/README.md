@@ -10,3 +10,4 @@ new visitor.
 | Example | Scenario |
 | --- | --- |
 | `example1` | Employee tree accepted by Payroll, Directory and Tax visitors |
+| `example2` | A coffee cart accepted by price, calorie and allergy visitors |

@@ -10,3 +10,4 @@ something would otherwise have to orchestrate all four in the correct order.
 | Example | Scenario |
 | --- | --- |
 | `example1` | `CheckoutFacade.placeOrder(...)` over payment, inventory, shipping and email |
+| `example2` | `HireFacade.hire(...)` over background check, payroll, badge and email |

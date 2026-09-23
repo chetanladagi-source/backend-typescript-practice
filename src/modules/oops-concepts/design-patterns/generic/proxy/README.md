@@ -10,3 +10,4 @@ that check without the real service having to know anything about roles.
 | Example | Scenario |
 | --- | --- |
 | `example1` | An `AuthorizedPayment` proxy in front of a `RealPayment` service |
+| `example2` | A virtual `LazyPlateReader` that boots the ANPR camera on first use |

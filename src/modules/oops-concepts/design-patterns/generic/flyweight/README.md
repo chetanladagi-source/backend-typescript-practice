@@ -10,3 +10,4 @@ you store the same string 10,000 times.
 | Example | Scenario |
 | --- | --- |
 | `example1` | Cars share a small pool of `VehicleType` objects; per-car data stays per-car |
+| `example2` | 10,000 cups share 3 frozen `BeanBlend` objects |

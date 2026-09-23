@@ -10,3 +10,4 @@ says a prototype is due.
 | Example | Scenario |
 | --- | --- |
 | `example1` | Cloning an `Employee` template — with the shallow-copy bug next to the correct version |
+| `example2` | Cloning a latte `Recipe` — shared `shot` and `toppings` on a shallow copy |

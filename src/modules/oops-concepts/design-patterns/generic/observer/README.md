@@ -10,3 +10,4 @@ listeners should not have to poll.
 | Example | Scenario |
 | --- | --- |
 | `example1` | A parking-lot Subject notifying multiple typed Observers |
+| `example2` | A coffee `OrderBoard` notifying display, app and (broken) loyalty |
