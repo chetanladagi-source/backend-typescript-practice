@@ -1,0 +1,1 @@
+export { SnakeAndLadder } from "./snakeAndLadder";
